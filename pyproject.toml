@@ -1,10 +1,10 @@
 [project]
 name = "payflow"
 version = "0.1.0"
-description = "Add your description here"
+description = "Payment orchestration service — Stripe test-mode, idempotent APIs, double-entry ledger, reconciliation"
 readme = "README.md"
 authors = [
-    { name = "mayank", email = "mayank@exitfund.com" }
+    { name = "Mayank Jain", email = "mayankjainllrl@gmail.com" }
 ]
 requires-python = ">=3.10"
 dependencies = [
@@ -14,9 +14,5 @@ dependencies = [
     "uvicorn[standard]>=0.52.4",
 ]
 
-[project.scripts]
-payflow = "payflow:main"
-
-[build-system]
-requires = ["uv_build>=0.12.10,<0.13.0"]
-build-backend = "uv_build"
+[tool.uv]
+package = false
