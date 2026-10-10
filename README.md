@@ -92,4 +92,4 @@ Not built yet, in the order I plan to do them:
 
 ## Author
 
-Mayank Jain · [Portfolio](https://mayankjainllrl.github.io) · [LinkedIn](https://www.linkedin.com/in/mayank-jain-731325148/)
+Mayank Jain · [Portfolio](https://mayankjainllrl.github.io) · [LinkedIn](https://www.linkedin.com/in/mayankjainllrl/)
